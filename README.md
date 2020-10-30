@@ -21,6 +21,8 @@ https://www.youtube.com/watch?v=z6jUo17iwIA
 
 ### Nomad, Consul, Fabio 
 
+https://learn.hashicorp.com/tutorials/nomad/get-started-install?in=nomad/get-started
+
 https://www.youtube.com/watch?v=xl58mjMJjrg
 
 ### terraform
