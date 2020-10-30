@@ -22,3 +22,5 @@ https://www.youtube.com/watch?v=z6jUo17iwIA
 ### Nomad, Consul, Fabio 
 
 https://www.youtube.com/watch?v=xl58mjMJjrg
+
+### terraform
