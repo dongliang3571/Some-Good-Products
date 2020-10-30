@@ -1,6 +1,6 @@
 # CICD
 
-## Jenkins
+### Jenkins
 
 CICD pipeline
 
@@ -13,8 +13,12 @@ https://www.cloudbees.com/blog/setting-jenkins-ec2-slaves
 
 https://support.cloudbees.com/hc/en-us/articles/115002654991-Remoting-Best-Practices
 
-## SaltStack
+### SaltStack
 
 Configuration management
 
 https://www.youtube.com/watch?v=z6jUo17iwIA
+
+### Nomad, Consul, Fabio 
+
+https://www.youtube.com/watch?v=xl58mjMJjrg
