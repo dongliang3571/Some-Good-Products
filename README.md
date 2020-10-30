@@ -19,10 +19,22 @@ Configuration management
 
 https://www.youtube.com/watch?v=z6jUo17iwIA
 
-### Nomad, Consul, Fabio 
+### Nomad
+
+A simple and flexible workload orchestrator to deploy and manage containers 
 
 https://learn.hashicorp.com/tutorials/nomad/get-started-install?in=nomad/get-started
 
 https://www.youtube.com/watch?v=xl58mjMJjrg
 
-### terraform
+### Consul
+
+Services discovery
+
+### Fabio
+
+Http/TCP load balancing
+
+### Terraform
+
+Infrastructure provisioning
