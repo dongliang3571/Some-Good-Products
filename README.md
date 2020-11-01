@@ -29,7 +29,11 @@ https://www.youtube.com/watch?v=xl58mjMJjrg
 
 ### Consul
 
-Services discovery
+**Service mesh**
+
+- Service Discovery
+- Service Configuration
+- Service segmentation
 
 ### Fabio
 
@@ -39,4 +43,3 @@ Http/TCP load balancing
 
 Infrastructure provisioning
 
-### Service mesh
