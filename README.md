@@ -13,6 +13,13 @@ https://www.cloudbees.com/blog/setting-jenkins-ec2-slaves
 
 https://support.cloudbees.com/hc/en-us/articles/115002654991-Remoting-Best-Practices
 
+
+#### Pipeline: Basic Steps
+
+- `catchError` - https://www.jenkins.io/doc/pipeline/steps/workflow-basic-steps/#catcherror-catch-error-and-set-build-result-to-failure
+
+If the body throws an exception, it marks the build as a failure, but continue to run statements within a `stage`. But it will fail the stage and not continue next stages
+
 ### SaltStack
 
 Configuration management
