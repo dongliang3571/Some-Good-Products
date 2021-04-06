@@ -79,3 +79,7 @@ localstack:
 ```
 
 - `HOSTNAME_EXTERNAL`: Name of the host to expose the services externally (default: localhost). This host is used, e.g., when returning **queue** URLs from the SQS service to the client.
+
+### Elasticsearch number of shards calculator
+
+https://gbaptista.github.io/elastic-calculator/
