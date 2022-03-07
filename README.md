@@ -1,5 +1,9 @@
 # Some-Good-Products
 
+### Datadog / datadog agent
+
+https://docs.datadoghq.com/metrics/dogstatsd_metrics_submission/#histogram
+
 ### Jenkins
 
 CICD pipeline
